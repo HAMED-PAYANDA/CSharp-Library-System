@@ -1,0 +1,17 @@
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/bin/Debug/net10.0/ConsoleApp
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/bin/Debug/net10.0/ConsoleApp.deps.json
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/bin/Debug/net10.0/ConsoleApp.runtimeconfig.json
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/bin/Debug/net10.0/ConsoleApp.dll
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/bin/Debug/net10.0/ConsoleApp.pdb
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/bin/Debug/net10.0/Pastel.dll
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/obj/Debug/net10.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/obj/Debug/net10.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/obj/Debug/net10.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/obj/Debug/net10.0/ConsoleApp.AssemblyInfo.cs
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/obj/Debug/net10.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/obj/Debug/net10.0/ConsoleApp.csproj.Up2Date
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/obj/Debug/net10.0/ConsoleApp.dll
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/obj/Debug/net10.0/refint/ConsoleApp.dll
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/obj/Debug/net10.0/ConsoleApp.pdb
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/obj/Debug/net10.0/ConsoleApp.genruntimeconfig.cache
+/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/obj/Debug/net10.0/ref/ConsoleApp.dll

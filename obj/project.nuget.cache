@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfXKQ1F6NFY=",
+  "success": true,
+  "projectFilePath": "/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/hpayanda/.nuget/packages/pastel/7.0.1/pastel.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

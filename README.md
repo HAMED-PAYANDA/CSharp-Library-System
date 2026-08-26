@@ -5,7 +5,7 @@
 ![Microsoft](https://img.shields.io/badge/Microsoft-FFD700?style=flat&logo=microsoft&logoColor=black)
 ![Console App](https://img.shields.io/badge/Console-Application-5C2D91?style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![System.IO](https://img.shields.io/badge/Data%20Storage-Local%20.TXT-4B5563?style=flat)
+![System.IO](https://img.shields.io/badge/Data%20Storage-Local%20.TXT-red?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)

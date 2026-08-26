@@ -2,7 +2,16 @@
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET 10.0](https://img.shields.io/badge/.NET%2010.0-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Console App](https://img.shields.io/badge/Console-Application-blue?style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![System.IO](https://img.shields.io/badge/Data%20Storage-Local%20.TXT-4B5563?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
 
 A lightweight, interactive Command-Line Interface (CLI) application built in C# for managing a local library inventory. This project demonstrates core programming concepts including standard CRUD operations, array-based state management, persistent File I/O, and custom ANSI color rendering in the terminal.
 
@@ -68,26 +77,35 @@ graph TD;
 
 ## 💻 Core Tech Stack
 
-•	Language: C#
-•	Framework: .NET (v10.0)
-•	Environment: Visual Studio Code / macOS
-•	Data Storage: Local Text File (.txt using System.IO)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Language** | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) |
+| **Framework** | ![.NET 10.0](https://img.shields.io/badge/.NET%2010.0-5C2D91?style=for-the-badge&logo=.net&logoColor=white) |
+| **Environment** | ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Data Storage** | ![Data Storage](https://img.shields.io/badge/Data%20Storage-Local%20.TXT-4B5563?style=for-the-badge) |
+| **Version Control** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+| **CI/CD** | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
 
 ---
 
 ## 📂 Repository Structure
 ```text
+## 📂 Repository Structure
+
+```text
 📦 CSharp-Library-System
- ┣ 📜 Program.cs         # Core application logic and execution
+ ┣ 📜 .gitignore         # Specifies intentionally untracked files to ignore
  ┣ 📜 ConsoleApp.csproj  # .NET project configuration file
- ┣ 📜 library.txt        # Generated database file (created on save)
+ ┣ 📜 LICENSE            # Project license (MIT)
+ ┣ 📜 Program.cs         # Core application logic and execution
+ ┣ 📜 README.md          # Project documentation
  ┣ 🖼️ screenshot1.png    # UI Showcase
  ┣ 🖼️ screenshot2.png    # UI Showcase
  ┣ 🖼️ screenshot3.png    # UI Showcase
  ┣ 🖼️ screenshot4.png    # UI Showcase
  ┣ 🖼️ screenshot5.png    # UI Showcase
  ┣ 🖼️ screenshot6.png    # UI Showcase
- ┗ 📜 README.md          # Project documentation
+ ┗ 🖼️ screenshot7.png    # UI Showcase
 ```
 
 ---
@@ -123,3 +141,6 @@ const string Reset = "\u001b[0m";
 // Example Usage:
 Console.WriteLine(Green + $"'{newBook}' added to the library." + Reset);
 ```
+
+---
+

@@ -2,8 +2,7 @@
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![.NET 10.0](https://img.shields.io/badge/.NET%2010.0-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-FFD700?style=for-the-badge&logo=microsoft&logoColor=black)
 ![Console App](https://img.shields.io/badge/Console-Application-blue?style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![System.IO](https://img.shields.io/badge/Data%20Storage-Local%20.TXT-4B5563?style=for-the-badge)

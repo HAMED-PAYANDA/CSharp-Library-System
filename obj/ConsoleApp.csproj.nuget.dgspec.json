@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/ConsoleApp.csproj": {}
+    "/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/INTRODUCTIO TO C#/ConsoleApp/ConsoleApp01/ConsoleApp.csproj": {}
   },
   "projects": {
-    "/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/ConsoleApp.csproj": {
+    "/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/INTRODUCTIO TO C#/ConsoleApp/ConsoleApp01/ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/ConsoleApp.csproj",
+        "projectUniqueName": "/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/INTRODUCTIO TO C#/ConsoleApp/ConsoleApp01/ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/ConsoleApp.csproj",
+        "projectPath": "/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/INTRODUCTIO TO C#/ConsoleApp/ConsoleApp01/ConsoleApp.csproj",
         "packagesPath": "/Users/hpayanda/.nuget/packages/",
-        "outputPath": "/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/C#/ConsoleApp/ConsoleApp01/obj/",
+        "outputPath": "/Users/hpayanda/Documents/CODING SPECIALITIES/MICROSOFT/INTRODUCTIO TO C#/ConsoleApp/ConsoleApp01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hpayanda/.nuget/NuGet/NuGet.Config"

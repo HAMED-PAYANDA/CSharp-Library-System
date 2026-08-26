@@ -1,14 +1,13 @@
 # 📚 C# Interactive Library Management System
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-FFD700?style=for-the-badge&logo=microsoft&logoColor=black)
-![Console App](https://img.shields.io/badge/Console-Application-5C2D91?style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![System.IO](https://img.shields.io/badge/Data%20Storage-Local%20.TXT-4B5563?style=for-the-badge)
-[![.NET CI Build](https://github.com/HAMED-PAYANDA/CSharp-Library-System/actions/workflows/dotnet-build.yaml/badge.svg)](https://github.com/HAMED-PAYANDA/CSharp-Library-System/actions/workflows/dotnet-build.yaml)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-FFD700?style=flat&logo=microsoft&logoColor=black)
+![Console App](https://img.shields.io/badge/Console-Application-5C2D91?style=flat)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![System.IO](https://img.shields.io/badge/Data%20Storage-Local%20.TXT-4B5563?style=flat)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)
 
 A lightweight, interactive Command-Line Interface (CLI) application built in C# for managing a local library inventory. This project demonstrates core programming concepts including standard CRUD operations, array-based state management, persistent File I/O, and custom ANSI color rendering in the terminal.

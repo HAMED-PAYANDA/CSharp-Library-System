@@ -6,6 +6,7 @@
 ![Console App](https://img.shields.io/badge/Console-Application-5C2D91?style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![System.IO](https://img.shields.io/badge/Data%20Storage-Local%20.TXT-4B5563?style=for-the-badge)
+[![.NET CI Build](https://github.com/HAMED-PAYANDA/CSharp-Library-System/actions/workflows/dotnet-build.yaml/badge.svg)](https://github.com/HAMED-PAYANDA/CSharp-Library-System/actions/workflows/dotnet-build.yaml)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat)

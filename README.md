@@ -1,6 +1,6 @@
 # 📚 C# Interactive Library Management System
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-FFD700?style=flat&logo=microsoft&logoColor=black)
 ![Console App](https://img.shields.io/badge/Console-Application-5C2D91?style=flat)
